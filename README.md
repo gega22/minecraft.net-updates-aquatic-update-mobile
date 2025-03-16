@@ -1,1 +1,1 @@
-# minecraft.net-updates-aquatic-update-mobile
+# aquatic-update
